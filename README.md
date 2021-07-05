@@ -11,5 +11,4 @@
 ### How To Download?
 >You can download the game by either git clone -ing the project or by simply downloading the .zip file and unzipping it once installation is complete!
 
-### Info For Devs 
-> Made in Unity.
+
